@@ -126,6 +126,7 @@
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
+                adnan shakib
             </div>
         </div>
     </body>
